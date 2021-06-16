@@ -1,0 +1,10 @@
+body {
+    background-image: url(../images/pavan.png), url(../images/login-background.jpg);
+    background-position: left top, left top;
+    background-repeat: no-repeat, repeat;
+    }
+  
+  h1 {
+    color: rgb(9, 10, 12);
+    margin-left: 20px;
+  }
